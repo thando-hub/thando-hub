@@ -1,6 +1,6 @@
 
 # Hi, I'm Thandokazi (Lidia) 👋
-🎓 Software Development Student | Nelson Mandela University & PLP Academy Scholarship  
+🎓 Software Development Student | Nelson Mandela University
 💻 Learning C#, Web Development, and Cybersecurity  
 🌍 Based in George, South Africa  
 
